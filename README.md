@@ -46,11 +46,11 @@ Certifique-se de estar no diretório raiz do projeto (onde está o `Makefile`).
 
 ### 4. Como Executar os Testes
 
-Foi desenvolvido um programa de teste específico chamado `cowtest` para validar a funcionalidade.
+Foi desenvolvido um programa de teste específico chamado `teste_task4` para validar a funcionalidade.
 
 1.  Após iniciar o XV6 (quando aparecer o prompt `$`), execute:
     ```bash
-    cowtest
+    ./teste_task4
     ```
 
 2.  **Comportamento Esperado:**
